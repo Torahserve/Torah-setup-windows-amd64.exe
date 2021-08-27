@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Torah\Torah\bin\Debug\Torah.exe.config
+C:\Users\Administrator\source\repos\Torah\Torah\bin\Debug\Torah.exe
+C:\Users\Administrator\source\repos\Torah\Torah\bin\Debug\Torah.pdb
+C:\Users\Administrator\source\repos\Torah\Torah\obj\Debug\Torah.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Torah\Torah\obj\Debug\Torah.Form1.resources
+C:\Users\Administrator\source\repos\Torah\Torah\obj\Debug\Torah.Form2.resources
+C:\Users\Administrator\source\repos\Torah\Torah\obj\Debug\Torah.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Torah\Torah\obj\Debug\Torah.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Torah\Torah\obj\Debug\Torah.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Torah\Torah\obj\Debug\Torah.exe
+C:\Users\Administrator\source\repos\Torah\Torah\obj\Debug\Torah.pdb
